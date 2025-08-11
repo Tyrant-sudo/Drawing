@@ -1,0 +1,55 @@
+# Large image files
+*Almond_Blossom*.jpg
+*Starry_Night*.jpg
+
+# OS generated files
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Icon?
+*.icon
+.*.swp
+
+# Python files
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+.coverage
+.pytest_cache/
+
+# Node.js files
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Zip files
+*.zip
+
+# IDE files
+.vscode/
+.idea/
+
+# p5py build files
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# GitHub files
+.github/
+
+# Processing files
+*.class
+*.jar
+
+# Temporary files
+*.tmp
+*.temp
